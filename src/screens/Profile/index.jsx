@@ -5,7 +5,7 @@ import Title from '../../components/Title'
 export default function Profile() {
   return (
     <View style={styles.container}>
-      <Title title={"Profile - Hello! aniversario do felipe dev"} />
+      <Title title={"Profile "} />
     </View>
   )
 }
